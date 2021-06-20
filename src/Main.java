@@ -19,7 +19,7 @@ public class Main {
         Student[] students = {new Student("Alice"),
                               new Student("Jiaqi"),
                               new Student("Bobo")};
-        Student student = new Student("jiaQi");
+        Student student = new Student("jiaqi");
 
         int res4 = LinearSearch.search(students, student);
         System.out.println(res4);
