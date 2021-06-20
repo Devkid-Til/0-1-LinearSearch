@@ -24,6 +24,7 @@ public class Main {
         int res4 = LinearSearch.search(students, student);
         System.out.println(res4);
 
+        System.out.println("Master modified by jiaqi");
 
     }
 }
