@@ -28,6 +28,7 @@ public class Main {
         System.out.println("Hot-fix modified by jiaqi");
         System.out.println("PUSH TEST");
         System.out.println("PUSH TEST");
+        System.out.println("PULL TEST");
 
 
     }
